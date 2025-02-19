@@ -1,0 +1,30 @@
+1;Espresso;150.0
+2;Latte;160.0
+3;Capuccino;170.0
+4;Leche Chocolatada;180.0
+5;Té Verde;100.0
+6;Limonada;120.0
+7;Licuado de Frutas;130.0
+8;Smoothies;140.0
+9;Agua Mineral;90.0
+10;Macchiato;155.0
+11;Uno;500.0;T
+12;Jenga;600.0;T
+13;Dardos;550.0;T
+14;Monopoly;700.0;T
+15;Truco;400.0;T
+16;Scrabble;650.0;T
+17;Clue;580.0;T
+18;Risk;720.0;T
+19;Catan;800.0;T
+20;Pictionary;530.0;T
+21;Lemon Pie;250.0
+22;Chocotorta;300.0
+23;Medialuna;100.0
+24;Brownie;200.0
+25;Muffins;220.0
+26;Cookies;180.0
+27;Tostado;150.0
+28;Cheesecake;280.0
+29;Alfajor;130.0
+30;Tarta de Frutas;290.0

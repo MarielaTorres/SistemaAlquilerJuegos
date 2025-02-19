@@ -1,0 +1,9 @@
+Factura - Mesa 2
+Atendido por: Diego
+Fecha y hora: 2025-02-19 11:06:22
+Limonada - Precio: $120.0
+Agua Mineral - Precio: $90.0
+Latte - Precio: $160.0
+Lemon Pie - Precio: $250.0
+Tarta de Frutas - Precio: $290.0
+Total: $910.0

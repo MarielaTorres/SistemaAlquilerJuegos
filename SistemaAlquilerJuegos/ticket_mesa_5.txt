@@ -1,0 +1,6 @@
+Factura - Mesa 5
+Atendido por: Dieog
+Fecha y hora: 2025-02-19 11:08:05
+Espresso - Precio: $150.0
+Alfajor - Precio: $130.0
+Total: $280.0

@@ -1,0 +1,7 @@
+Factura - Mesa 1
+Atendido por: Marie
+Fecha y hora: 2025-02-19 16:51:13
+Latte - Precio: $160.0
+Capuccino - Precio: $170.0
+Limonada - Precio: $120.0
+Total: $450.0
